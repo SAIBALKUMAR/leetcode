@@ -26,7 +26,6 @@ class Solution(object):
                 check(i+1,k+1,res+[str(s[i:i+1])])
         
         check(0,0,[])
-        print(ans)
         for i in range(len(ans)):
             ans[i]=".".join(ans[i])
         return ans
