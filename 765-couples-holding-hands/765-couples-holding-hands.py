@@ -20,7 +20,6 @@ class Solution(object):
                     dix[row[temp]]=temp
                     i+=2
                     count+=1
-                    print(row)
             else:
                 if row[i+1]==row[i]-1:
                     i+=2
@@ -31,7 +30,6 @@ class Solution(object):
                     dix[row[temp]]=temp
                     i+=2
                     count+=1
-                    print(row)
         return count       
         
                     
