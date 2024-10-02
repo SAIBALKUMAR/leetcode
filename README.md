@@ -24,6 +24,7 @@ leetcode questions done by me.
 | ------- |
 | [0091-decode-ways](https://github.com/SAIBALKUMAR/leetcode/tree/master/0091-decode-ways) |
 | [0639-decode-ways-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0639-decode-ways-ii) |
+| [2487-optimal-partition-of-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Math
 |  |
 | ------- |
@@ -41,4 +42,12 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/SAIBALKUMAR/leetcode/tree/master/1585-the-kth-factor-of-n) |
+## Hash Table
+|  |
+| ------- |
+| [2487-optimal-partition-of-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/2487-optimal-partition-of-string) |
+## Greedy
+|  |
+| ------- |
+| [2487-optimal-partition-of-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/2487-optimal-partition-of-string) |
 <!---LeetCode Topics End-->
