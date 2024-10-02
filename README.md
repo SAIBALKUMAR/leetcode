@@ -28,6 +28,7 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SAIBALKUMAR/leetcode/tree/master/0062-unique-paths) |
+| [1585-the-kth-factor-of-n](https://github.com/SAIBALKUMAR/leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Combinatorics
 |  |
 | ------- |
@@ -36,4 +37,8 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0063-unique-paths-ii) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/SAIBALKUMAR/leetcode/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
