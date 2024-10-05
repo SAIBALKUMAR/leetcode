@@ -10,6 +10,7 @@ leetcode questions done by me.
 | [0063-unique-paths-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/SAIBALKUMAR/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0213-house-robber-ii) |
+| [1220-smallest-sufficient-team](https://github.com/SAIBALKUMAR/leetcode/tree/master/1220-smallest-sufficient-team) |
 | [1319-unique-number-of-occurrences](https://github.com/SAIBALKUMAR/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1694-make-sum-divisible-by-p](https://github.com/SAIBALKUMAR/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 ## Dynamic Programming
@@ -21,6 +22,7 @@ leetcode questions done by me.
 | [0198-house-robber](https://github.com/SAIBALKUMAR/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0213-house-robber-ii) |
 | [0639-decode-ways-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0639-decode-ways-ii) |
+| [1220-smallest-sufficient-team](https://github.com/SAIBALKUMAR/leetcode/tree/master/1220-smallest-sufficient-team) |
 ## String
 |  |
 | ------- |
@@ -68,4 +70,12 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/0567-permutation-in-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1220-smallest-sufficient-team](https://github.com/SAIBALKUMAR/leetcode/tree/master/1220-smallest-sufficient-team) |
+## Bitmask
+|  |
+| ------- |
+| [1220-smallest-sufficient-team](https://github.com/SAIBALKUMAR/leetcode/tree/master/1220-smallest-sufficient-team) |
 <!---LeetCode Topics End-->
