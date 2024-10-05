@@ -24,6 +24,7 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/SAIBALKUMAR/leetcode/tree/master/0091-decode-ways) |
+| [0567-permutation-in-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/0567-permutation-in-string) |
 | [0639-decode-ways-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0639-decode-ways-ii) |
 | [2487-optimal-partition-of-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Math
@@ -46,6 +47,7 @@ leetcode questions done by me.
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/0567-permutation-in-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/SAIBALKUMAR/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2487-optimal-partition-of-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Greedy
@@ -56,4 +58,12 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/SAIBALKUMAR/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
