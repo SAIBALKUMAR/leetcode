@@ -13,6 +13,7 @@ leetcode questions done by me.
 | [1220-smallest-sufficient-team](https://github.com/SAIBALKUMAR/leetcode/tree/master/1220-smallest-sufficient-team) |
 | [1319-unique-number-of-occurrences](https://github.com/SAIBALKUMAR/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1694-make-sum-divisible-by-p](https://github.com/SAIBALKUMAR/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/SAIBALKUMAR/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +38,7 @@ leetcode questions done by me.
 | [0062-unique-paths](https://github.com/SAIBALKUMAR/leetcode/tree/master/0062-unique-paths) |
 | [0826-soup-servings](https://github.com/SAIBALKUMAR/leetcode/tree/master/0826-soup-servings) |
 | [1585-the-kth-factor-of-n](https://github.com/SAIBALKUMAR/leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/SAIBALKUMAR/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Combinatorics
 |  |
 | ------- |
