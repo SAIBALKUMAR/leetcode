@@ -32,6 +32,7 @@ leetcode questions done by me.
 | [0567-permutation-in-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/0567-permutation-in-string) |
 | [0639-decode-ways-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0639-decode-ways-ii) |
 | [2487-optimal-partition-of-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/2487-optimal-partition-of-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/SAIBALKUMAR/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
 | ------- |
@@ -86,4 +87,12 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/SAIBALKUMAR/leetcode/tree/master/0826-soup-servings) |
+## Stack
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/SAIBALKUMAR/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/SAIBALKUMAR/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
