@@ -17,6 +17,7 @@ leetcode questions done by me.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SAIBALKUMAR/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/SAIBALKUMAR/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/SAIBALKUMAR/leetcode/tree/master/0091-decode-ways) |
@@ -28,6 +29,7 @@ leetcode questions done by me.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SAIBALKUMAR/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/SAIBALKUMAR/leetcode/tree/master/0091-decode-ways) |
 | [0567-permutation-in-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/0567-permutation-in-string) |
 | [0639-decode-ways-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0639-decode-ways-ii) |
@@ -70,6 +72,7 @@ leetcode questions done by me.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SAIBALKUMAR/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0567-permutation-in-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
