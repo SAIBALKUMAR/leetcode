@@ -17,6 +17,7 @@ leetcode questions done by me.
 | [1319-unique-number-of-occurrences](https://github.com/SAIBALKUMAR/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1694-make-sum-divisible-by-p](https://github.com/SAIBALKUMAR/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SAIBALKUMAR/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/SAIBALKUMAR/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +71,7 @@ leetcode questions done by me.
 | [0011-container-with-most-water](https://github.com/SAIBALKUMAR/leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/SAIBALKUMAR/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [2487-optimal-partition-of-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/2487-optimal-partition-of-string) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/SAIBALKUMAR/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -108,4 +110,9 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/SAIBALKUMAR/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
+## Sorting
+|  |
+| ------- |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/SAIBALKUMAR/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 <!---LeetCode Topics End-->
