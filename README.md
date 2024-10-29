@@ -12,6 +12,7 @@ leetcode questions done by me.
 | [0049-group-anagrams](https://github.com/SAIBALKUMAR/leetcode/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/SAIBALKUMAR/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/SAIBALKUMAR/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0213-house-robber-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/SAIBALKUMAR/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -57,6 +58,7 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
 ## Number Theory
 |  |
 | ------- |
@@ -123,4 +125,16 @@ leetcode questions done by me.
 | ------- |
 | [0049-group-anagrams](https://github.com/SAIBALKUMAR/leetcode/tree/master/0049-group-anagrams) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/SAIBALKUMAR/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
