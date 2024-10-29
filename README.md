@@ -16,6 +16,7 @@ leetcode questions done by me.
 | [0209-minimum-size-subarray-sum](https://github.com/SAIBALKUMAR/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0213-house-robber-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/SAIBALKUMAR/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0945-snakes-and-ladders](https://github.com/SAIBALKUMAR/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1220-smallest-sufficient-team](https://github.com/SAIBALKUMAR/leetcode/tree/master/1220-smallest-sufficient-team) |
 | [1319-unique-number-of-occurrences](https://github.com/SAIBALKUMAR/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1694-make-sum-divisible-by-p](https://github.com/SAIBALKUMAR/leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -59,6 +60,7 @@ leetcode questions done by me.
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
+| [0945-snakes-and-ladders](https://github.com/SAIBALKUMAR/leetcode/tree/master/0945-snakes-and-ladders) |
 ## Number Theory
 |  |
 | ------- |
@@ -133,6 +135,7 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
+| [0945-snakes-and-ladders](https://github.com/SAIBALKUMAR/leetcode/tree/master/0945-snakes-and-ladders) |
 ## Union Find
 |  |
 | ------- |
