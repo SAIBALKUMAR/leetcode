@@ -12,6 +12,7 @@ leetcode questions done by me.
 | [0047-permutations-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/SAIBALKUMAR/leetcode/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0063-unique-paths-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SAIBALKUMAR/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/SAIBALKUMAR/leetcode/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/SAIBALKUMAR/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
@@ -31,6 +32,7 @@ leetcode questions done by me.
 | [0062-unique-paths](https://github.com/SAIBALKUMAR/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/SAIBALKUMAR/leetcode/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SAIBALKUMAR/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/SAIBALKUMAR/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0213-house-robber-ii) |
 | [0639-decode-ways-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0639-decode-ways-ii) |
