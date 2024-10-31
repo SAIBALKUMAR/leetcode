@@ -9,7 +9,6 @@ class Solution:
                 preMax = n
             if (n > preMax):
                 preMax = n
-            print(n, preMin, preMax, maxProfit, preMax-preMin)
             if (maxProfit < preMax-preMin):
                 maxProfit = max(maxProfit, preMax-preMin)
                 preMax = n
