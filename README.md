@@ -11,6 +11,7 @@ leetcode questions done by me.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0047-permutations-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/SAIBALKUMAR/leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/SAIBALKUMAR/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SAIBALKUMAR/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -30,6 +31,7 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SAIBALKUMAR/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/SAIBALKUMAR/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SAIBALKUMAR/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/SAIBALKUMAR/leetcode/tree/master/0091-decode-ways) |
@@ -84,6 +86,7 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SAIBALKUMAR/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/SAIBALKUMAR/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/SAIBALKUMAR/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [2487-optimal-partition-of-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/2487-optimal-partition-of-string) |
