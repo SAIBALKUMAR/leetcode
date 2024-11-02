@@ -18,6 +18,7 @@ leetcode questions done by me.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/SAIBALKUMAR/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/SAIBALKUMAR/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/SAIBALKUMAR/leetcode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/SAIBALKUMAR/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/SAIBALKUMAR/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -94,6 +95,7 @@ leetcode questions done by me.
 | [0055-jump-game](https://github.com/SAIBALKUMAR/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/SAIBALKUMAR/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/SAIBALKUMAR/leetcode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/SAIBALKUMAR/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [2487-optimal-partition-of-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/SAIBALKUMAR/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
