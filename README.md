@@ -14,6 +14,7 @@ leetcode questions done by me.
 | [0049-group-anagrams](https://github.com/SAIBALKUMAR/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/SAIBALKUMAR/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0063-unique-paths-ii) |
+| [0068-text-justification](https://github.com/SAIBALKUMAR/leetcode/tree/master/0068-text-justification) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SAIBALKUMAR/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/SAIBALKUMAR/leetcode/tree/master/0130-surrounded-regions) |
@@ -52,6 +53,7 @@ leetcode questions done by me.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SAIBALKUMAR/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/SAIBALKUMAR/leetcode/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/SAIBALKUMAR/leetcode/tree/master/0068-text-justification) |
 | [0091-decode-ways](https://github.com/SAIBALKUMAR/leetcode/tree/master/0091-decode-ways) |
 | [0567-permutation-in-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/0567-permutation-in-string) |
 | [0639-decode-ways-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0639-decode-ways-ii) |
@@ -134,6 +136,7 @@ leetcode questions done by me.
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/SAIBALKUMAR/leetcode/tree/master/0068-text-justification) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SAIBALKUMAR/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
 |  |
