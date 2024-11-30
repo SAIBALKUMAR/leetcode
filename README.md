@@ -8,6 +8,7 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SAIBALKUMAR/leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0047-permutations-ii) |
@@ -112,6 +113,7 @@ leetcode questions done by me.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SAIBALKUMAR/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SAIBALKUMAR/leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
