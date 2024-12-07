@@ -1,15 +1,10 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         preMin = prices[0]
-        preMax = prices[0]
         maxProfit = 0
         for n in prices:
             if (n < preMin):
                 preMin = n
-                preMax = n
-            if (n > preMax):
-                preMax = n
-            if (maxProfit < preMax-preMin):
-                maxProfit = max(maxProfit, preMax-preMin)
-                preMax = n
+            if (maxProfit < n-preMin):
+                maxProfit = max(maxProfit, n-preMin)
         return maxProfit
