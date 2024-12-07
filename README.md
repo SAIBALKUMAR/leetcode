@@ -23,6 +23,7 @@ leetcode questions done by me.
 | [0130-surrounded-regions](https://github.com/SAIBALKUMAR/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/SAIBALKUMAR/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/SAIBALKUMAR/leetcode/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/SAIBALKUMAR/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/SAIBALKUMAR/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/SAIBALKUMAR/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -90,6 +91,7 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SAIBALKUMAR/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/SAIBALKUMAR/leetcode/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/0567-permutation-in-string) |
 | [1319-unique-number-of-occurrences](https://github.com/SAIBALKUMAR/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1694-make-sum-divisible-by-p](https://github.com/SAIBALKUMAR/leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -157,6 +159,7 @@ leetcode questions done by me.
 | ------- |
 | [0049-group-anagrams](https://github.com/SAIBALKUMAR/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SAIBALKUMAR/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/SAIBALKUMAR/leetcode/tree/master/0274-h-index) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/SAIBALKUMAR/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SAIBALKUMAR/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -192,5 +195,10 @@ leetcode questions done by me.
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SAIBALKUMAR/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/SAIBALKUMAR/leetcode/tree/master/0274-h-index) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SAIBALKUMAR/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
