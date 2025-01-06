@@ -31,6 +31,7 @@ leetcode questions done by me.
 | [0274-h-index](https://github.com/SAIBALKUMAR/leetcode/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/SAIBALKUMAR/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/SAIBALKUMAR/leetcode/tree/master/0945-snakes-and-ladders) |
+| [1014-k-closest-points-to-origin](https://github.com/SAIBALKUMAR/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1220-smallest-sufficient-team](https://github.com/SAIBALKUMAR/leetcode/tree/master/1220-smallest-sufficient-team) |
 | [1319-unique-number-of-occurrences](https://github.com/SAIBALKUMAR/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1694-make-sum-divisible-by-p](https://github.com/SAIBALKUMAR/leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -70,6 +71,7 @@ leetcode questions done by me.
 | ------- |
 | [0062-unique-paths](https://github.com/SAIBALKUMAR/leetcode/tree/master/0062-unique-paths) |
 | [0826-soup-servings](https://github.com/SAIBALKUMAR/leetcode/tree/master/0826-soup-servings) |
+| [1014-k-closest-points-to-origin](https://github.com/SAIBALKUMAR/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1585-the-kth-factor-of-n](https://github.com/SAIBALKUMAR/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SAIBALKUMAR/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Combinatorics
@@ -161,6 +163,7 @@ leetcode questions done by me.
 | [0088-merge-sorted-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SAIBALKUMAR/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/SAIBALKUMAR/leetcode/tree/master/0274-h-index) |
+| [1014-k-closest-points-to-origin](https://github.com/SAIBALKUMAR/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/SAIBALKUMAR/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SAIBALKUMAR/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -205,8 +208,21 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SAIBALKUMAR/leetcode/tree/master/0169-majority-element) |
+| [1014-k-closest-points-to-origin](https://github.com/SAIBALKUMAR/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/SAIBALKUMAR/leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/SAIBALKUMAR/leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/SAIBALKUMAR/leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
