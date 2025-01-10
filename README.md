@@ -30,6 +30,7 @@ leetcode questions done by me.
 | [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/SAIBALKUMAR/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/SAIBALKUMAR/leetcode/tree/master/0221-maximal-square) |
 | [0274-h-index](https://github.com/SAIBALKUMAR/leetcode/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/SAIBALKUMAR/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/SAIBALKUMAR/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -53,6 +54,7 @@ leetcode questions done by me.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/SAIBALKUMAR/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/SAIBALKUMAR/leetcode/tree/master/0221-maximal-square) |
 | [0639-decode-ways-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0639-decode-ways-ii) |
 | [0826-soup-servings](https://github.com/SAIBALKUMAR/leetcode/tree/master/0826-soup-servings) |
 | [1220-smallest-sufficient-team](https://github.com/SAIBALKUMAR/leetcode/tree/master/1220-smallest-sufficient-team) |
@@ -86,6 +88,7 @@ leetcode questions done by me.
 | [0063-unique-paths-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/SAIBALKUMAR/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/SAIBALKUMAR/leetcode/tree/master/0221-maximal-square) |
 | [0945-snakes-and-ladders](https://github.com/SAIBALKUMAR/leetcode/tree/master/0945-snakes-and-ladders) |
 ## Number Theory
 |  |
