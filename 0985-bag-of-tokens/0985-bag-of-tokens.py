@@ -5,7 +5,6 @@ class Solution:
         res = 0
         score = 0
         while left <= right:
-            print(score, power, left,right)
             if power >= tokens[left]:
                 power -= tokens[left]
                 score += 1
