@@ -17,6 +17,7 @@ leetcode questions done by me.
 | [0049-group-anagrams](https://github.com/SAIBALKUMAR/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/SAIBALKUMAR/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/SAIBALKUMAR/leetcode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/SAIBALKUMAR/leetcode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0088-merge-sorted-array) |
@@ -52,6 +53,7 @@ leetcode questions done by me.
 | [0055-jump-game](https://github.com/SAIBALKUMAR/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SAIBALKUMAR/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/SAIBALKUMAR/leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/SAIBALKUMAR/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/SAIBALKUMAR/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SAIBALKUMAR/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -93,6 +95,7 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/SAIBALKUMAR/leetcode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/SAIBALKUMAR/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/SAIBALKUMAR/leetcode/tree/master/0221-maximal-square) |
