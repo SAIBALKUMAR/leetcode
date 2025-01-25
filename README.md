@@ -143,6 +143,7 @@ leetcode questions done by me.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0088-merge-sorted-array) |
+| [0295-find-median-from-data-stream](https://github.com/SAIBALKUMAR/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/SAIBALKUMAR/leetcode/tree/master/0647-palindromic-substrings) |
@@ -189,6 +190,7 @@ leetcode questions done by me.
 | [0088-merge-sorted-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SAIBALKUMAR/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/SAIBALKUMAR/leetcode/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/SAIBALKUMAR/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0985-bag-of-tokens](https://github.com/SAIBALKUMAR/leetcode/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/SAIBALKUMAR/leetcode/tree/master/1009-pancake-sorting) |
@@ -251,9 +253,18 @@ leetcode questions done by me.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/SAIBALKUMAR/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/SAIBALKUMAR/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/SAIBALKUMAR/leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SAIBALKUMAR/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SAIBALKUMAR/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
