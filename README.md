@@ -46,6 +46,7 @@ leetcode questions done by me.
 | [2530-minimize-maximum-of-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/SAIBALKUMAR/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SAIBALKUMAR/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/SAIBALKUMAR/leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -132,6 +133,7 @@ leetcode questions done by me.
 | [2487-optimal-partition-of-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2530-minimize-maximum-of-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/SAIBALKUMAR/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/SAIBALKUMAR/leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -201,6 +203,7 @@ leetcode questions done by me.
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/SAIBALKUMAR/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SAIBALKUMAR/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SAIBALKUMAR/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/SAIBALKUMAR/leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Depth-First Search
 |  |
 | ------- |
