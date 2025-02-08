@@ -67,6 +67,7 @@ leetcode questions done by me.
 | [0639-decode-ways-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0639-decode-ways-ii) |
 | [0647-palindromic-substrings](https://github.com/SAIBALKUMAR/leetcode/tree/master/0647-palindromic-substrings) |
 | [0826-soup-servings](https://github.com/SAIBALKUMAR/leetcode/tree/master/0826-soup-servings) |
+| [0956-number-of-music-playlists](https://github.com/SAIBALKUMAR/leetcode/tree/master/0956-number-of-music-playlists) |
 | [1220-smallest-sufficient-team](https://github.com/SAIBALKUMAR/leetcode/tree/master/1220-smallest-sufficient-team) |
 | [2530-minimize-maximum-of-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/2530-minimize-maximum-of-array) |
 ## String
@@ -88,6 +89,7 @@ leetcode questions done by me.
 | ------- |
 | [0062-unique-paths](https://github.com/SAIBALKUMAR/leetcode/tree/master/0062-unique-paths) |
 | [0826-soup-servings](https://github.com/SAIBALKUMAR/leetcode/tree/master/0826-soup-servings) |
+| [0956-number-of-music-playlists](https://github.com/SAIBALKUMAR/leetcode/tree/master/0956-number-of-music-playlists) |
 | [1014-k-closest-points-to-origin](https://github.com/SAIBALKUMAR/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1585-the-kth-factor-of-n](https://github.com/SAIBALKUMAR/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SAIBALKUMAR/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -95,6 +97,7 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SAIBALKUMAR/leetcode/tree/master/0062-unique-paths) |
+| [0956-number-of-music-playlists](https://github.com/SAIBALKUMAR/leetcode/tree/master/0956-number-of-music-playlists) |
 ## Matrix
 |  |
 | ------- |
