@@ -35,6 +35,7 @@ leetcode questions done by me.
 | [0274-h-index](https://github.com/SAIBALKUMAR/leetcode/tree/master/0274-h-index) |
 | [0334-increasing-triplet-subsequence](https://github.com/SAIBALKUMAR/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SAIBALKUMAR/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/SAIBALKUMAR/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0985-bag-of-tokens](https://github.com/SAIBALKUMAR/leetcode/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/SAIBALKUMAR/leetcode/tree/master/1009-pancake-sorting) |
@@ -118,6 +119,7 @@ leetcode questions done by me.
 | [0169-majority-element](https://github.com/SAIBALKUMAR/leetcode/tree/master/0169-majority-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/0567-permutation-in-string) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SAIBALKUMAR/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1319-unique-number-of-occurrences](https://github.com/SAIBALKUMAR/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1694-make-sum-divisible-by-p](https://github.com/SAIBALKUMAR/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2487-optimal-partition-of-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -237,11 +239,13 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SAIBALKUMAR/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SAIBALKUMAR/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SAIBALKUMAR/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SAIBALKUMAR/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Counting Sort
 |  |
@@ -252,6 +256,7 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SAIBALKUMAR/leetcode/tree/master/0169-majority-element) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SAIBALKUMAR/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/SAIBALKUMAR/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
