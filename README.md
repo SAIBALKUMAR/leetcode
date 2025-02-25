@@ -16,6 +16,7 @@ leetcode questions done by me.
 | [0047-permutations-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/SAIBALKUMAR/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/SAIBALKUMAR/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/SAIBALKUMAR/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SAIBALKUMAR/leetcode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/SAIBALKUMAR/leetcode/tree/master/0068-text-justification) |
@@ -205,6 +206,7 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SAIBALKUMAR/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/SAIBALKUMAR/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SAIBALKUMAR/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/SAIBALKUMAR/leetcode/tree/master/0274-h-index) |
