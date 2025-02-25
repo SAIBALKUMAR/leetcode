@@ -215,6 +215,7 @@ leetcode questions done by me.
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/SAIBALKUMAR/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SAIBALKUMAR/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -239,12 +240,14 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SAIBALKUMAR/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SAIBALKUMAR/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SAIBALKUMAR/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SAIBALKUMAR/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SAIBALKUMAR/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SAIBALKUMAR/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Counting Sort
@@ -283,4 +286,8 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SAIBALKUMAR/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SAIBALKUMAR/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
