@@ -33,6 +33,7 @@ leetcode questions done by me.
 | [0213-house-robber-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/SAIBALKUMAR/leetcode/tree/master/0221-maximal-square) |
 | [0274-h-index](https://github.com/SAIBALKUMAR/leetcode/tree/master/0274-h-index) |
+| [0300-longest-increasing-subsequence](https://github.com/SAIBALKUMAR/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/SAIBALKUMAR/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SAIBALKUMAR/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -65,6 +66,7 @@ leetcode questions done by me.
 | [0198-house-robber](https://github.com/SAIBALKUMAR/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/SAIBALKUMAR/leetcode/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/SAIBALKUMAR/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0639-decode-ways-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0639-decode-ways-ii) |
 | [0647-palindromic-substrings](https://github.com/SAIBALKUMAR/leetcode/tree/master/0647-palindromic-substrings) |
 | [0826-soup-servings](https://github.com/SAIBALKUMAR/leetcode/tree/master/0826-soup-servings) |
@@ -190,6 +192,7 @@ leetcode questions done by me.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SAIBALKUMAR/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/SAIBALKUMAR/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2530-minimize-maximum-of-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/SAIBALKUMAR/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
