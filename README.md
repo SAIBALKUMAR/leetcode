@@ -48,6 +48,7 @@ leetcode questions done by me.
 | [1014-k-closest-points-to-origin](https://github.com/SAIBALKUMAR/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1220-smallest-sufficient-team](https://github.com/SAIBALKUMAR/leetcode/tree/master/1220-smallest-sufficient-team) |
 | [1319-unique-number-of-occurrences](https://github.com/SAIBALKUMAR/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1397-search-suggestions-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/1397-search-suggestions-system) |
 | [1694-make-sum-divisible-by-p](https://github.com/SAIBALKUMAR/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/SAIBALKUMAR/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2530-minimize-maximum-of-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/2530-minimize-maximum-of-array) |
@@ -93,6 +94,7 @@ leetcode questions done by me.
 | [0567-permutation-in-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/0567-permutation-in-string) |
 | [0639-decode-ways-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0639-decode-ways-ii) |
 | [0647-palindromic-substrings](https://github.com/SAIBALKUMAR/leetcode/tree/master/0647-palindromic-substrings) |
+| [1397-search-suggestions-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/1397-search-suggestions-system) |
 | [2487-optimal-partition-of-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SAIBALKUMAR/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
@@ -205,6 +207,7 @@ leetcode questions done by me.
 | [0209-minimum-size-subarray-sum](https://github.com/SAIBALKUMAR/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/SAIBALKUMAR/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1397-search-suggestions-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/1397-search-suggestions-system) |
 | [2530-minimize-maximum-of-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/SAIBALKUMAR/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Sorting
@@ -222,6 +225,7 @@ leetcode questions done by me.
 | [0985-bag-of-tokens](https://github.com/SAIBALKUMAR/leetcode/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/SAIBALKUMAR/leetcode/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/SAIBALKUMAR/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1397-search-suggestions-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/1397-search-suggestions-system) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/SAIBALKUMAR/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SAIBALKUMAR/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SAIBALKUMAR/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -294,6 +298,7 @@ leetcode questions done by me.
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SAIBALKUMAR/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/SAIBALKUMAR/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1397-search-suggestions-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/1397-search-suggestions-system) |
 ## Quickselect
 |  |
 | ------- |
@@ -310,4 +315,8 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SAIBALKUMAR/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Trie
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
