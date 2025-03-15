@@ -152,6 +152,7 @@ leetcode questions done by me.
 | [0646-maximum-length-of-pair-chain](https://github.com/SAIBALKUMAR/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0985-bag-of-tokens](https://github.com/SAIBALKUMAR/leetcode/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/SAIBALKUMAR/leetcode/tree/master/1009-pancake-sorting) |
+| [2379-maximum-total-importance-of-roads](https://github.com/SAIBALKUMAR/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2487-optimal-partition-of-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2530-minimize-maximum-of-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/SAIBALKUMAR/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -229,6 +230,7 @@ leetcode questions done by me.
 | [1014-k-closest-points-to-origin](https://github.com/SAIBALKUMAR/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/1397-search-suggestions-system) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2379-maximum-total-importance-of-roads](https://github.com/SAIBALKUMAR/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/SAIBALKUMAR/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SAIBALKUMAR/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SAIBALKUMAR/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -305,6 +307,7 @@ leetcode questions done by me.
 | [1014-k-closest-points-to-origin](https://github.com/SAIBALKUMAR/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/1397-search-suggestions-system) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2379-maximum-total-importance-of-roads](https://github.com/SAIBALKUMAR/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Quickselect
 |  |
 | ------- |
@@ -330,4 +333,5 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [1229-shortest-path-with-alternating-colors](https://github.com/SAIBALKUMAR/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [2379-maximum-total-importance-of-roads](https://github.com/SAIBALKUMAR/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 <!---LeetCode Topics End-->
