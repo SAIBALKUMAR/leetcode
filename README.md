@@ -249,6 +249,7 @@ leetcode questions done by me.
 | [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/SAIBALKUMAR/leetcode/tree/master/0322-coin-change) |
 | [0945-snakes-and-ladders](https://github.com/SAIBALKUMAR/leetcode/tree/master/0945-snakes-and-ladders) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/SAIBALKUMAR/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SAIBALKUMAR/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Union Find
 |  |
@@ -325,4 +326,8 @@ leetcode questions done by me.
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/1397-search-suggestions-system) |
+## Graph
+|  |
+| ------- |
+| [1229-shortest-path-with-alternating-colors](https://github.com/SAIBALKUMAR/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 <!---LeetCode Topics End-->
