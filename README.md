@@ -48,6 +48,7 @@ leetcode questions done by me.
 | [0985-bag-of-tokens](https://github.com/SAIBALKUMAR/leetcode/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/SAIBALKUMAR/leetcode/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/SAIBALKUMAR/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1073-number-of-enclaves](https://github.com/SAIBALKUMAR/leetcode/tree/master/1073-number-of-enclaves) |
 | [1220-smallest-sufficient-team](https://github.com/SAIBALKUMAR/leetcode/tree/master/1220-smallest-sufficient-team) |
 | [1319-unique-number-of-occurrences](https://github.com/SAIBALKUMAR/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1397-search-suggestions-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/1397-search-suggestions-system) |
@@ -125,6 +126,7 @@ leetcode questions done by me.
 | [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/SAIBALKUMAR/leetcode/tree/master/0221-maximal-square) |
 | [0945-snakes-and-ladders](https://github.com/SAIBALKUMAR/leetcode/tree/master/0945-snakes-and-ladders) |
+| [1073-number-of-enclaves](https://github.com/SAIBALKUMAR/leetcode/tree/master/1073-number-of-enclaves) |
 ## Number Theory
 |  |
 | ------- |
@@ -252,6 +254,7 @@ leetcode questions done by me.
 | [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SAIBALKUMAR/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/SAIBALKUMAR/leetcode/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/SAIBALKUMAR/leetcode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -261,6 +264,7 @@ leetcode questions done by me.
 | [0322-coin-change](https://github.com/SAIBALKUMAR/leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/SAIBALKUMAR/leetcode/tree/master/0547-number-of-provinces) |
 | [0945-snakes-and-ladders](https://github.com/SAIBALKUMAR/leetcode/tree/master/0945-snakes-and-ladders) |
+| [1073-number-of-enclaves](https://github.com/SAIBALKUMAR/leetcode/tree/master/1073-number-of-enclaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/SAIBALKUMAR/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SAIBALKUMAR/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Union Find
@@ -269,6 +273,7 @@ leetcode questions done by me.
 | [0130-surrounded-regions](https://github.com/SAIBALKUMAR/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SAIBALKUMAR/leetcode/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/SAIBALKUMAR/leetcode/tree/master/1073-number-of-enclaves) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SAIBALKUMAR/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Backtracking
 |  |
