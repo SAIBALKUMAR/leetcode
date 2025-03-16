@@ -251,6 +251,7 @@ leetcode questions done by me.
 | [0130-surrounded-regions](https://github.com/SAIBALKUMAR/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SAIBALKUMAR/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0547-number-of-provinces](https://github.com/SAIBALKUMAR/leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -258,6 +259,7 @@ leetcode questions done by me.
 | [0130-surrounded-regions](https://github.com/SAIBALKUMAR/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/SAIBALKUMAR/leetcode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/SAIBALKUMAR/leetcode/tree/master/0547-number-of-provinces) |
 | [0945-snakes-and-ladders](https://github.com/SAIBALKUMAR/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/SAIBALKUMAR/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SAIBALKUMAR/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -266,6 +268,7 @@ leetcode questions done by me.
 | ------- |
 | [0130-surrounded-regions](https://github.com/SAIBALKUMAR/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/SAIBALKUMAR/leetcode/tree/master/0547-number-of-provinces) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SAIBALKUMAR/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Backtracking
 |  |
@@ -345,6 +348,7 @@ leetcode questions done by me.
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/SAIBALKUMAR/leetcode/tree/master/0547-number-of-provinces) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/SAIBALKUMAR/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SAIBALKUMAR/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Bucket Sort
