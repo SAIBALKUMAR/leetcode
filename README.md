@@ -43,6 +43,7 @@ leetcode questions done by me.
 | [0532-k-diff-pairs-in-an-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SAIBALKUMAR/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SAIBALKUMAR/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0721-accounts-merge](https://github.com/SAIBALKUMAR/leetcode/tree/master/0721-accounts-merge) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SAIBALKUMAR/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/SAIBALKUMAR/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0985-bag-of-tokens](https://github.com/SAIBALKUMAR/leetcode/tree/master/0985-bag-of-tokens) |
@@ -98,6 +99,7 @@ leetcode questions done by me.
 | [0567-permutation-in-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/0567-permutation-in-string) |
 | [0639-decode-ways-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0639-decode-ways-ii) |
 | [0647-palindromic-substrings](https://github.com/SAIBALKUMAR/leetcode/tree/master/0647-palindromic-substrings) |
+| [0721-accounts-merge](https://github.com/SAIBALKUMAR/leetcode/tree/master/0721-accounts-merge) |
 | [1397-search-suggestions-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/1397-search-suggestions-system) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2487-optimal-partition-of-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -140,6 +142,7 @@ leetcode questions done by me.
 | [0532-k-diff-pairs-in-an-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SAIBALKUMAR/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0721-accounts-merge](https://github.com/SAIBALKUMAR/leetcode/tree/master/0721-accounts-merge) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SAIBALKUMAR/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1319-unique-number-of-occurrences](https://github.com/SAIBALKUMAR/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1694-make-sum-divisible-by-p](https://github.com/SAIBALKUMAR/leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -235,6 +238,7 @@ leetcode questions done by me.
 | [0532-k-diff-pairs-in-an-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SAIBALKUMAR/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SAIBALKUMAR/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0721-accounts-merge](https://github.com/SAIBALKUMAR/leetcode/tree/master/0721-accounts-merge) |
 | [0985-bag-of-tokens](https://github.com/SAIBALKUMAR/leetcode/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/SAIBALKUMAR/leetcode/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/SAIBALKUMAR/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -257,6 +261,7 @@ leetcode questions done by me.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SAIBALKUMAR/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/SAIBALKUMAR/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/SAIBALKUMAR/leetcode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/SAIBALKUMAR/leetcode/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/SAIBALKUMAR/leetcode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -269,6 +274,7 @@ leetcode questions done by me.
 | [0322-coin-change](https://github.com/SAIBALKUMAR/leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/SAIBALKUMAR/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/SAIBALKUMAR/leetcode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/SAIBALKUMAR/leetcode/tree/master/0721-accounts-merge) |
 | [0945-snakes-and-ladders](https://github.com/SAIBALKUMAR/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1073-number-of-enclaves](https://github.com/SAIBALKUMAR/leetcode/tree/master/1073-number-of-enclaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/SAIBALKUMAR/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
@@ -280,6 +286,7 @@ leetcode questions done by me.
 | [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SAIBALKUMAR/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/SAIBALKUMAR/leetcode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/SAIBALKUMAR/leetcode/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/SAIBALKUMAR/leetcode/tree/master/1073-number-of-enclaves) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SAIBALKUMAR/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Backtracking
