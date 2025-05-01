@@ -47,6 +47,7 @@ leetcode questions done by me.
 | [0721-accounts-merge](https://github.com/SAIBALKUMAR/leetcode/tree/master/0721-accounts-merge) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SAIBALKUMAR/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/SAIBALKUMAR/leetcode/tree/master/0945-snakes-and-ladders) |
+| [0965-unique-email-addresses](https://github.com/SAIBALKUMAR/leetcode/tree/master/0965-unique-email-addresses) |
 | [0985-bag-of-tokens](https://github.com/SAIBALKUMAR/leetcode/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/SAIBALKUMAR/leetcode/tree/master/1009-pancake-sorting) |
 | [1014-k-closest-points-to-origin](https://github.com/SAIBALKUMAR/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -101,6 +102,7 @@ leetcode questions done by me.
 | [0639-decode-ways-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0639-decode-ways-ii) |
 | [0647-palindromic-substrings](https://github.com/SAIBALKUMAR/leetcode/tree/master/0647-palindromic-substrings) |
 | [0721-accounts-merge](https://github.com/SAIBALKUMAR/leetcode/tree/master/0721-accounts-merge) |
+| [0965-unique-email-addresses](https://github.com/SAIBALKUMAR/leetcode/tree/master/0965-unique-email-addresses) |
 | [1397-search-suggestions-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/1397-search-suggestions-system) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2487-optimal-partition-of-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -145,6 +147,7 @@ leetcode questions done by me.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SAIBALKUMAR/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/SAIBALKUMAR/leetcode/tree/master/0721-accounts-merge) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SAIBALKUMAR/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0965-unique-email-addresses](https://github.com/SAIBALKUMAR/leetcode/tree/master/0965-unique-email-addresses) |
 | [1319-unique-number-of-occurrences](https://github.com/SAIBALKUMAR/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1694-make-sum-divisible-by-p](https://github.com/SAIBALKUMAR/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2487-optimal-partition-of-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/2487-optimal-partition-of-string) |
