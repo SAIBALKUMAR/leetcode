@@ -7,6 +7,7 @@ leetcode questions done by me.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SAIBALKUMAR/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SAIBALKUMAR/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -139,6 +140,7 @@ leetcode questions done by me.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SAIBALKUMAR/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SAIBALKUMAR/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SAIBALKUMAR/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SAIBALKUMAR/leetcode/tree/master/0347-top-k-frequent-elements) |
