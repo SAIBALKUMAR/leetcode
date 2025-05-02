@@ -30,6 +30,7 @@ leetcode questions done by me.
 | [0134-gas-station](https://github.com/SAIBALKUMAR/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/SAIBALKUMAR/leetcode/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/SAIBALKUMAR/leetcode/tree/master/0162-find-peak-element) |
+| [0163-missing-ranges](https://github.com/SAIBALKUMAR/leetcode/tree/master/0163-missing-ranges) |
 | [0169-majority-element](https://github.com/SAIBALKUMAR/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/SAIBALKUMAR/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
