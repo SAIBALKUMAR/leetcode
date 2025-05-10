@@ -21,6 +21,7 @@ leetcode questions done by me.
 | [0063-unique-paths-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SAIBALKUMAR/leetcode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/SAIBALKUMAR/leetcode/tree/master/0068-text-justification) |
+| [0078-subsets](https://github.com/SAIBALKUMAR/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SAIBALKUMAR/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0088-merge-sorted-array) |
@@ -203,6 +204,7 @@ leetcode questions done by me.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SAIBALKUMAR/leetcode/tree/master/0078-subsets) |
 | [1220-smallest-sufficient-team](https://github.com/SAIBALKUMAR/leetcode/tree/master/1220-smallest-sufficient-team) |
 ## Bitmask
 |  |
@@ -303,6 +305,7 @@ leetcode questions done by me.
 | [0039-combination-sum](https://github.com/SAIBALKUMAR/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/SAIBALKUMAR/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SAIBALKUMAR/leetcode/tree/master/0079-word-search) |
 ## Tree
 |  |
