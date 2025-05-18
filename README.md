@@ -69,6 +69,7 @@ leetcode questions done by me.
 | [2432-number-of-zero-filled-subarrays](https://github.com/SAIBALKUMAR/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2530-minimize-maximum-of-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/2530-minimize-maximum-of-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/SAIBALKUMAR/leetcode/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SAIBALKUMAR/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SAIBALKUMAR/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/SAIBALKUMAR/leetcode/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Dynamic Programming
@@ -142,6 +143,7 @@ leetcode questions done by me.
 | [0304-range-sum-query-2d-immutable](https://github.com/SAIBALKUMAR/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0945-snakes-and-ladders](https://github.com/SAIBALKUMAR/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1073-number-of-enclaves](https://github.com/SAIBALKUMAR/leetcode/tree/master/1073-number-of-enclaves) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SAIBALKUMAR/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
@@ -304,6 +306,7 @@ leetcode questions done by me.
 | [1073-number-of-enclaves](https://github.com/SAIBALKUMAR/leetcode/tree/master/1073-number-of-enclaves) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/SAIBALKUMAR/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SAIBALKUMAR/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SAIBALKUMAR/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -373,6 +376,7 @@ leetcode questions done by me.
 | [1397-search-suggestions-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/1397-search-suggestions-system) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SAIBALKUMAR/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SAIBALKUMAR/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Quickselect
 |  |
 | ------- |
@@ -409,6 +413,7 @@ leetcode questions done by me.
 | [0684-redundant-connection](https://github.com/SAIBALKUMAR/leetcode/tree/master/0684-redundant-connection) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/SAIBALKUMAR/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SAIBALKUMAR/leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SAIBALKUMAR/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -428,4 +433,8 @@ leetcode questions done by me.
 | ------- |
 | [0729-my-calendar-i](https://github.com/SAIBALKUMAR/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0731-my-calendar-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SAIBALKUMAR/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 <!---LeetCode Topics End-->
