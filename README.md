@@ -43,6 +43,7 @@ leetcode questions done by me.
 | [0274-h-index](https://github.com/SAIBALKUMAR/leetcode/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/SAIBALKUMAR/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/SAIBALKUMAR/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/SAIBALKUMAR/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/SAIBALKUMAR/leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/SAIBALKUMAR/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/SAIBALKUMAR/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -138,6 +139,7 @@ leetcode questions done by me.
 | [0130-surrounded-regions](https://github.com/SAIBALKUMAR/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SAIBALKUMAR/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/SAIBALKUMAR/leetcode/tree/master/0221-maximal-square) |
+| [0304-range-sum-query-2d-immutable](https://github.com/SAIBALKUMAR/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0945-snakes-and-ladders](https://github.com/SAIBALKUMAR/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1073-number-of-enclaves](https://github.com/SAIBALKUMAR/leetcode/tree/master/1073-number-of-enclaves) |
 ## Number Theory
@@ -186,6 +188,7 @@ leetcode questions done by me.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SAIBALKUMAR/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/SAIBALKUMAR/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/SAIBALKUMAR/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0731-my-calendar-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0731-my-calendar-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/SAIBALKUMAR/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2530-minimize-maximum-of-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/2530-minimize-maximum-of-array) |
@@ -381,6 +384,7 @@ leetcode questions done by me.
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SAIBALKUMAR/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/SAIBALKUMAR/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/SAIBALKUMAR/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/SAIBALKUMAR/leetcode/tree/master/0355-design-twitter) |
 | [0729-my-calendar-i](https://github.com/SAIBALKUMAR/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0731-my-calendar-ii) |
