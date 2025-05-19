@@ -110,6 +110,7 @@ leetcode questions done by me.
 | [0097-interleaving-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/0097-interleaving-string) |
 | [0567-permutation-in-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/0567-permutation-in-string) |
 | [0639-decode-ways-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0639-decode-ways-ii) |
+| [0642-design-search-autocomplete-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/0642-design-search-autocomplete-system) |
 | [0647-palindromic-substrings](https://github.com/SAIBALKUMAR/leetcode/tree/master/0647-palindromic-substrings) |
 | [0721-accounts-merge](https://github.com/SAIBALKUMAR/leetcode/tree/master/0721-accounts-merge) |
 | [0965-unique-email-addresses](https://github.com/SAIBALKUMAR/leetcode/tree/master/0965-unique-email-addresses) |
@@ -264,6 +265,7 @@ leetcode questions done by me.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SAIBALKUMAR/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SAIBALKUMAR/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0642-design-search-autocomplete-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/0642-design-search-autocomplete-system) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SAIBALKUMAR/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/SAIBALKUMAR/leetcode/tree/master/0721-accounts-merge) |
 | [0985-bag-of-tokens](https://github.com/SAIBALKUMAR/leetcode/tree/master/0985-bag-of-tokens) |
@@ -287,6 +289,7 @@ leetcode questions done by me.
 | [0210-course-schedule-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SAIBALKUMAR/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/SAIBALKUMAR/leetcode/tree/master/0547-number-of-provinces) |
+| [0642-design-search-autocomplete-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/0642-design-search-autocomplete-system) |
 | [0684-redundant-connection](https://github.com/SAIBALKUMAR/leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/SAIBALKUMAR/leetcode/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/SAIBALKUMAR/leetcode/tree/master/1073-number-of-enclaves) |
@@ -372,6 +375,7 @@ leetcode questions done by me.
 | [0347-top-k-frequent-elements](https://github.com/SAIBALKUMAR/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/SAIBALKUMAR/leetcode/tree/master/0355-design-twitter) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SAIBALKUMAR/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0642-design-search-autocomplete-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/0642-design-search-autocomplete-system) |
 | [1014-k-closest-points-to-origin](https://github.com/SAIBALKUMAR/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1397-search-suggestions-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/1397-search-suggestions-system) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -390,12 +394,14 @@ leetcode questions done by me.
 | [0303-range-sum-query-immutable](https://github.com/SAIBALKUMAR/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SAIBALKUMAR/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/SAIBALKUMAR/leetcode/tree/master/0355-design-twitter) |
+| [0642-design-search-autocomplete-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/0642-design-search-autocomplete-system) |
 | [0729-my-calendar-i](https://github.com/SAIBALKUMAR/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0731-my-calendar-ii) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SAIBALKUMAR/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0642-design-search-autocomplete-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/0642-design-search-autocomplete-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -403,6 +409,7 @@ leetcode questions done by me.
 ## Trie
 |  |
 | ------- |
+| [0642-design-search-autocomplete-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/0642-design-search-autocomplete-system) |
 | [1397-search-suggestions-system](https://github.com/SAIBALKUMAR/leetcode/tree/master/1397-search-suggestions-system) |
 ## Graph
 |  |
