@@ -1,28 +1,26 @@
 class Solution:
     def maximumTastiness(self, price: List[int], k: int) -> int:
-        # [13,5,1,8,21,2]
-        # maxTaste = 10**9, maxArray=[]
-        # getMaxArray
-        # 
-        if (len(price) < k):
-            return 0
         price.sort()
+        left = 0
+        right = price[-1] -1
+        result = 0
 
-        def fulfill(t):
+        def checkMidForTastiness(mid):
             count = 1
-            lastprice = price[0]
+            prev = price[0]
             for i in range(1, len(price)):
-                if (price[i] - lastprice >= t):
-                    count += 1
-                    lastprice = price[i]
-            return count >= k
-
-        low, high = 0, price[-1] - price[0]
-        while high > low:
-            mid = high - (high - low) // 2
-            if fulfill(mid):
-                low = mid
+                if price[i]-prev >= mid:
+                    count +=1
+                    prev = price[i]
+                if (count == k):
+                    return True
+            return False
+            
+        while left <=right:
+            mid = (left + right) // 2
+            if checkMidForTastiness(mid):
+                left = mid +1 
+                result = mid
             else:
-                high = mid - 1 
-
-        return low
+                right = mid-1
+        return result
