@@ -49,6 +49,7 @@ leetcode questions done by me.
 | [0347-top-k-frequent-elements](https://github.com/SAIBALKUMAR/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/SAIBALKUMAR/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SAIBALKUMAR/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0525-contiguous-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SAIBALKUMAR/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SAIBALKUMAR/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -159,6 +160,7 @@ leetcode questions done by me.
 | [0169-majority-element](https://github.com/SAIBALKUMAR/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SAIBALKUMAR/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/SAIBALKUMAR/leetcode/tree/master/0355-design-twitter) |
+| [0525-contiguous-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/SAIBALKUMAR/leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SAIBALKUMAR/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -194,6 +196,7 @@ leetcode questions done by me.
 | [0209-minimum-size-subarray-sum](https://github.com/SAIBALKUMAR/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/SAIBALKUMAR/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SAIBALKUMAR/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0525-contiguous-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/0525-contiguous-array) |
 | [0731-my-calendar-ii](https://github.com/SAIBALKUMAR/leetcode/tree/master/0731-my-calendar-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/SAIBALKUMAR/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2530-minimize-maximum-of-array](https://github.com/SAIBALKUMAR/leetcode/tree/master/2530-minimize-maximum-of-array) |
